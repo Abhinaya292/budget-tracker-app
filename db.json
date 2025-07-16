@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Grocery shopping",
+      "amount": 450,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2025-07-15"
+    },
+    {
+      "id": "3",
+      "description": "Sold a watch",
+      "amount": 10000,
+      "type": "income",
+      "category": "Shopping",
+      "date": "2025-07-4"
+    },
+    {
+      "id": "4",
+      "description": "Breakfast at Subway",
+      "amount": 728,
+      "type": "expense",
+      "category": "Food",
+      "date": "2025-07-13"
+    },
+    {
+      "id": "5",
+      "description": "travelled to chennai",
+      "amount": 5000,
+      "type": "expense",
+      "category": "Travel",
+      "date": "2025-07-4"
+    },
+    {
+      "id": "6",
+      "description": "Salary Credited",
+      "amount": 75000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2025-06-30"
+    },
+    {
+      "id": "7",
+      "description": "Salary Credited",
+      "amount": 75000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2025-05-31"
+    }
+  ]
+}
